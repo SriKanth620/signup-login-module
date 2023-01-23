@@ -50,7 +50,7 @@ body{
 }
 .container{
   border: 2px solid black;
-  width: 21rem;
+  width: 19rem;
   box-shadow: 4px 3px;
   
 }
@@ -72,7 +72,7 @@ h1{
 label{
   display: block;
   text-align: left;
-  width: 100%;
+  width: 60%;
   padding: 0rem 2.36rem;
   font-weight: bold;
 }
@@ -117,7 +117,7 @@ input:focus{
 }
 @media only screen and (max-width: 500px){
   .container{
-      margin-bottom: 7rem;
+      margin-bottom: 5rem;
   }
   
 }
